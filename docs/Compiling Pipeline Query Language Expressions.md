@@ -1,7 +1,3 @@
-
-  
-  Here is a documentation page in Markdown format with the title "Compiling Pipeline Query Language Expressions" and content derived from the code and existing documentation provided:
-
 # Compiling Pipeline Query Language Expressions
 
 The `pql` package provides a way to compile Pipeline Query Language (PQL) expressions into equivalent SQL statements. The main entry point for this is the `Compile` function:
